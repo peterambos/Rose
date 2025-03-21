@@ -23,12 +23,12 @@ return [
     // You can use this option to use the default button styling. For example reskins of the Default Theme.
     // This can be useful if you do not want to update your brand styles every time a new button is added.
     // If true the file "brands.css" wont be used anymore and can be removed.
-    'use_default_buttons' => 'false',
+    'use_default_buttons' => 'true',
     
     // With this option, you can disallow custom background images set by users.
     'allow_custom_background' => 'true',
 
-    'enable_dynamic_contrast' => 'true',
+    'enable_dynamic_contrast' => 'false',
 
     /*
     |--------------------------------------------------------------------------
